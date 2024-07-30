@@ -93,6 +93,19 @@
                             </div>
                         </div>
                     </div>
+                    <footer class="content-footer footer">
+                        <div class="container-fluid d-flex flex-wrap justify-content-between align-items-center text-center py-4">
+                            <div>
+                                © <script>
+                                    document.write(new Date().getFullYear())
+                                </script>
+
+                                <a href="https://github.com/lucasFreitasDev97" class="footer-text fw-medium" target="_blank">Lucas Freitas</a>, Web Developer
+                                <span class="text-danger">💻</span>
+
+                            </div>
+                        </div>
+                    </footer>
                     <!-- / Content -->
                     <div class="content-backdrop fade"></div>
                 </div>
