@@ -18,5 +18,29 @@
                 <div>Home Page</div>
             </a>
         </li>
+        <li class="menu-item">
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-database-outline"></i>
+                <div>Products</div>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-truck-outline"></i>
+                <div>Suppliers</div>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-account-multiple-outline"></i>
+                <div>Customers</div>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-shopping-outline"></i>
+                <div>Orders</div>
+            </a>
+        </li>
     </ul>
 </aside>
