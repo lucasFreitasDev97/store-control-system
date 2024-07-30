@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8"/>
-    <title>Title</title>
+    <title>Store Control System</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="/assets/img/favicon/favicon.ico"/>
